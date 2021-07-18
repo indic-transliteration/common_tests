@@ -1,5 +1,5 @@
 {
-  "canonical_source": "https://github.com/indic-transliteration/indic-transliteration/blob/master/src/test/resources/approxDeduplicationTests.json",
+  "canonical_source": "https://github.com/indic-transliteration/indic_transliteration_py/blob/master/test/data/approxDeduplicationTests.json",
   "duplicates": [
     ["धर्मः", "धर्म्मः"],
     ["रामं गृह्णाति", "रामङ्गृह्णाति"],
