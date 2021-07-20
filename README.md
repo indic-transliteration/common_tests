@@ -1,1 +1,1 @@
-Shared transliteration tests stored as JSON files, used for testing transliteration from one script to another. Example users: [indic_transliteration_py](https://github.com/indic-transliteration/indic-transliteration_py).
+Shared transliteration tests stored as JSON files, used for testing transliteration from one script to another. Example users: [indic_transliteration_py](https://github.com/indic-transliteration/indic_transliteration_py).
