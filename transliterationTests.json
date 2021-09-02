@@ -120,8 +120,8 @@
     },
     {
       "description": "alternate diacritics",
-      "dev": "एभिस् तु संवसेद् यो वै वत्सरं सो ऽपि तत्समः",
-      "iast": "ebhis tu saṃvased yo vai vatsaraṃ so 'pi tatsamaḥ",
+      "dev": "पात्रे धनं वा पर्याप्तं। संवसेद् यो वै वत्सरं सो ऽपि तत्समः",
+      "iast": "pātre dhanaṃ vā paryāptaṃ. saṃvased yo vai vatsaraṃ so 'pi tatsamaḥ",
       "nonSupportingPrograms": "scala/indic-transliteration"
     }
   ],
