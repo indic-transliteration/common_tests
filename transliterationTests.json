@@ -117,6 +117,12 @@
       "dev": "तुवे꣡ असुर्यं᳡ व꣡सवो नि꣡ ऋण्वन् ओ꣡कसो अग्न आज",
       "iast": "tuvé asuryàṃ vásavo ní r̥ṇvan ókaso agna āja",
       "nonSupportingPrograms": "scala/indic-transliteration"
+    },
+    {
+      "description": "alternate diacritics",
+      "dev": "एभिस् तु संवसेद् यो वै वत्सरं सो ऽपि तत्समः",
+      "iast": "ebhis tu saṃvased yo vai vatsaraṃ so 'pi tatsamaḥ",
+      "nonSupportingPrograms": "scala/indic-transliteration"
     }
   ],
   "from_devanaagarii": [
