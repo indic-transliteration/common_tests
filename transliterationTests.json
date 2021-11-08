@@ -144,6 +144,11 @@
       "optitrans": "ETa OTa kEkOki"
     },
     {
+      "description": "Fake OM",
+      "dev": "तेजोंशसम्भवम्",
+      "iast": "tejoṃśasaṃbhavam"
+    },
+    {
       "description": "ea and oa",
       "dev": "कॉफी ऍक ऑक",
       "optitrans": "koaphI eaka oaka",
@@ -257,7 +262,7 @@
       "vowels": "a ā i ī u ū ṛ ṝ ḷ ḹ ē ai ō au",
       "marks": "ka khā gi ghī ṅu cū chṛ jṝ jhḷ ñḹ ṭē ṭhai ḍō ḍhau ṇaṃ taḥ th",
       "consonants": "ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha l̤a",
-      "symbols": "oṃ | || 0 1 2 3 4 5 6 7 8 9",
+      "symbols": "ōṃ | || 0 1 2 3 4 5 6 7 8 9",
       "putra": "putra",
       "naraIti": "nara iti",
       "sentence": "dharmakṣētrē kurukṣētrē samavētā yuyutsavaḥ |"
