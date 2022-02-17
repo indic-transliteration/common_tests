@@ -47,6 +47,11 @@
       "wx": "leSo'pi, sAzyi"
     },
     {
+      "description": "Test Lha",
+      "dev": "मीळ्हुषे",
+      "slp1": "mI|uze"
+    },
+    {
       "description": "Tests glyphs with nuTka",
       "TODO": "Fix assamese test",
       "dev": "अंशाइ पड़िब फ़कीर ज़रूर",
