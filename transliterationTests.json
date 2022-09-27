@@ -124,8 +124,9 @@
     },
     {
       "description": "svaras",
-      "dev": "तुवे꣡ असुर्यं᳡ व꣡सवो नि꣡ ऋण्वन् ओ꣡कसो अग्न आज",
-      "iast": "tuvé asuryàṃ vásavo ní r̥ṇvan ókaso agna āja",
+      "dev": "तुवे꣡ असुर्यं᳡ व꣡सवो नि꣡ ऋण्वन् ओ꣡कसो अग्न आज स वै꣡",
+      "iast": "tuvé asuryàṃ vásavo ní r̥ṇvan ókaso agna āja sa vaí",
+      "iso": "tuvḗ asuryàṁ vásavō ní r̥ṇvan ṓkasō agna āja sa vaí",
       "nonSupportingPrograms": "scala/indic-transliteration"
     },
     {
