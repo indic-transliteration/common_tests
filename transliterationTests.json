@@ -168,6 +168,13 @@
   ],
   "dravidian_tests": [
     {
+      "description": "ळ (ಳ) doubled before i or I, common in Kannada (ಹಳ್ಳಿ, ಈರುಳ್ಳಿ, ಹುಬ್ಬಳ್ಳಿ), must not read as ऌ or ॡ.",
+      "dev": "हळ्ळि ईरुळ्ळि हुब्बळ्ळि ळ्ळी ऌ ॡ",
+      "kannada": "ಹಳ್ಳಿ ಈರುಳ್ಳಿ ಹುಬ್ಬಳ್ಳಿ ಳ್ಳೀ ಌ ೡ",
+      "itrans_dravidian": "haLLi IruLLi hubbaLLi LLI L^i L^I",
+      "optitrans_dravidian": "haLLi IruLLi hubbaLLi LLI L^i L^I"
+    },
+    {
       "dev": "असय औषधिः ग्रन्थः। ऎ ऒ यॆक्ककॊ? शङ्कर",
       "telugu": "అసయ ఔషధిః గ్రన్థః। ఎ ఒ యెక్కకొ? శఙ్కర",
       "kannada": "ಅಸಯ ಔಷಧಿಃ ಗ್ರನ್ಥಃ। ಎ ಒ ಯೆಕ್ಕಕೊ? ಶಙ್ಕರ",
